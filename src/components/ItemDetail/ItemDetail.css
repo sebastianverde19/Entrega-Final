@@ -1,0 +1,86 @@
+
+.card-container {
+    align-items: center;
+    text-align: center;
+    background-color: #BF9766;
+    border: solid 2px black;
+    width: 350px;
+    height: 420px;
+    margin: 20px;
+    border-radius: 10px;
+    color:white;
+}
+
+.card-button button{
+    border: none;
+    width: 40px;
+    height: 25px;
+    background-color:transparent;
+    color: white;
+}
+
+
+.card-detail{
+    align-items: center;
+    background-color: #BF9766;
+    border: solid 2px black;
+    width: 30%;
+    height: 600px;
+    margin: 40px auto;
+    text-align: center;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+
+
+.cart-img{
+    width: 70%;
+    margin: auto;
+}
+
+.cart-img img{
+    width: 400px;
+    height: 350px;
+}
+
+.card-title {
+    font-size: 2rem;
+    color: black;
+    text-decoration: none;
+}
+
+.button-d{
+    background-color: #BF9766;
+    border: solid 2px white;
+    width: 300px;
+    height: 30px;
+    margin-top: 10px;
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    }
+
+.data-detail{
+    color:black;
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 10px;
+
+}
+
+.final-compra{
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.button-d:hover{
+    background-color:#BF9766;
+}

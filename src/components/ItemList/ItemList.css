@@ -1,0 +1,14 @@
+
+.link {
+    text-decoration: none;
+    color: #BF9766;
+}
+
+.item-list-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+    list-style: none;
+}

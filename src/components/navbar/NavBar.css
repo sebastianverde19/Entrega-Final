@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #BF9766;
+    height: 70px;
+    align-items: center;
+}
+
+.list-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+    width: 100%;
+    margin-left: 30px;
+}
+
+.button{
+    background-color: transparent;
+    border-radius: 1rem;
+    border: solid 2px;
+    font-size: 1.5rem;
+    color: white ;
+    padding: 3px;
+    text-decoration: none;
+}
+
+.logo{
+    font-size: 2rem;
+    text-decoration: none;
+    color: white;
+}
